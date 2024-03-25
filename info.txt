@@ -1,0 +1,16 @@
+$$Database$$
+->Organizes collection of data so that it can be aeasily accessed and managed
+# MongoDb is a No SQl Database
+# MongoDb is a scalable,open source,high performance,high availability,develop faster, document-oriented database.
+
+***NOSQL DB***
+# Non-Relational or Distributed.
+# Data store in collections(like JSON)
+# Horizontal scalable
+
+***SQL DB***
+# Relational DBMS
+# Data store in tables
+# Vertical scalable
+
+# indexing used to speed up document or search as read became fast but write becomes slow
